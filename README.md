@@ -7,6 +7,3 @@
 <p align="center">
   The first game by Backend Street Boys
 </p>
-<p align="center">
-  :warning: This game is still in development :warning:
-</p>
